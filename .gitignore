@@ -1,0 +1,65 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider project files
+*.csproj
+*.sln
+*.suo
+*.unityproj
+*.user
+*.booproj
+*.svd
+*.pidb
+*.sdf
+*.pdb
+*.mddb
+*.opendb
+*.VC.db
+*.vs
+
+# Unity metadata
+/[Aa]ssets/**/.*.meta
+/[Aa]ssets/**/[Tt]humbnails/
+[Aa]ssets/[Ss]treaming[Aa]ssets/**
+
+# Cache and generated files
+/[Cc]ache/
+/[Uu]ser[Ss]ettings/
+/[Oo]utput/
+/[Packages]/
+/[ProjectSettings]/**.asset
+
+# Logs and crash reports
+*.log
+*.stacktrace
+*.crash
+*.dmp
+
+# Package management
+/Packages/*
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Exclude personal settings (optional)
+*.userprefs
+*.swp
+*.swo
